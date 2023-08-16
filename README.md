@@ -1,4 +1,7 @@
-![logo](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="GIF Background" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Nasemul Goni Ishrak</h1>
 <h3 align="center">A Full-Stack Web Developer, Designer, and Life-Long Learner!</h3>
 
@@ -7,15 +10,10 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ishrak6" alt="ishrak6" /></a> </p>
 
 - 🔭 I’m currently work on **Web design and development**
-
 - 🌱 I’m currently learning **Complete Web Development with Programming Hero**
-
-- 👯 I’m looking to collaborate **with other developer**
-
+- 👯 I’m looking to collaborate **with other developers**
 - 💬 Ask me about **Programming and Web Development**
-
 - 📫 How to reach me **ngishrak6@gmail.com**
-
 - ⚡ Fun fact **I love to make photos and videos**
 
 <h3 align="left">Connect with me:</h3>
